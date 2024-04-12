@@ -1,16 +1,22 @@
 # animations
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Project Name: Flutter Lottie Animation Showcase
 
-A few resources to get you started if this is your first Flutter project:
+Overview: This Flutter project showcases Lottie animations across three pages: Home, Main, and Animation. Each page features a "Next Animation" button that leads to the next page, where a different Lottie animation is displayed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Installation: To run this project, ensure you have Flutter installed. Clone the repository, navigate to the project directory, and run flutter pub get to install the dependencies.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Usage: Navigate through the pages by tapping the "Next Animation" button. Each page presents a unique Lottie animation. Explore the Home, Main, and Animation pages to experience the variety of animations.
+
+Dependencies:
+
+Flutter SDK
+Lottie package (version x.x.x)
+Contributing: Contributions are welcome! Feel free to submit bug reports, feature requests, or code contributions via GitHub.
+
+
+https://github.com/IamaAB/Animations-in-flutter/assets/102419256/87286997-70ac-4963-b2e6-060a75f10609
+
