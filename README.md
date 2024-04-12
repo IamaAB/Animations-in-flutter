@@ -18,5 +18,8 @@ Lottie package (version x.x.x)
 Contributing: Contributions are welcome! Feel free to submit bug reports, feature requests, or code contributions via GitHub.
 
 
-https://github.com/IamaAB/Animations-in-flutter/assets/102419256/87286997-70ac-4963-b2e6-060a75f10609
+
+https://github.com/IamaAB/Animations-in-flutter/assets/102419256/3b8a5e6f-cd41-4aad-be33-c20378337711
+
+
 
